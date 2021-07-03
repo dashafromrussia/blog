@@ -8,7 +8,7 @@ export const AboutScreen = ({}) => {
     <View style={styles.center}>
       <Text>Это лучшее приложение для личных заметок.</Text>
       <Text>
-        Версия приложения <Text style={styles.version}>1.0.0</Text>
+        Версия приложения: <Text style={styles.version}>1.0.0</Text>
       </Text>
     </View>
   )
