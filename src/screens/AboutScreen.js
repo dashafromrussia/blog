@@ -9,6 +9,7 @@ export const AboutScreen = ({}) => {
       <Text>Это лучшее приложение для личных заметок.</Text>
       <Text>
         Версия приложения: <Text style={styles.version}>"1.0.0"</Text>
+         <Text style={styles.version}>2020 год</Text>
       </Text>
     </View>
   )
